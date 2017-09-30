@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.altice.rssproject.fragmentspractice.MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Red"
+            android:id="@+id/red_boton"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Blue"
+            android:id="@+id/blue_boton"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/my_frame_layout"
+        android:name="com.altice.rssproject.fragmentspractice.RedFragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#00ff00"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"/>
+
+
+    <fragment
+        android:id="@+id/red_fragment"
+        android:name="com.altice.rssproject.fragmentspractice.RedFragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        tools:layout="@layout/fragment_red"/>
+
+</LinearLayout>

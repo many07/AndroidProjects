@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825235530514",
+    "firebase_url": "https://badtransitapp.firebaseio.com",
+    "project_id": "badtransitapp",
+    "storage_bucket": "badtransitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825235530514:android:a6c1d5370e927bc6",
+        "android_client_info": {
+          "package_name": "com.vinrosa.badtransitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825235530514-3k3q6jaja22odrvbu5jrmjqkmp8ptq43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinrosa.badtransitapp",
+            "certificate_hash": "7bd6eb8eeb4111a261d7ad341c580b9e67826a98"
+          }
+        },
+        {
+          "client_id": "825235530514-e6qpnb3tbq57tn0ihshdir9kh6q3q4vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2AWwxYkuvF2R3PQ6efl5E2pJXlzBzAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825235530514-e6qpnb3tbq57tn0ihshdir9kh6q3q4vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

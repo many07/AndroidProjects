@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RSSProject</string>
+
+    <string-array name="nombres_de_periodicos">
+        <item>Diario Libre</item>
+        <item>Listin Diario</item>
+        <item>El Nacional</item>
+        <item>Hoy</item>
+    </string-array>
+</resources>

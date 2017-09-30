@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CosancApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="cxc_string">CxC</string>
+    <string name="listado_de_clientes_string">Listado de Clientes</string>
+    <string name="pedido_string">Pedido</string>
+    <string name="configurar_perfil_string">Configurar Perfil</string>
+    <string name="nombre_vendedor_string">Nombre del Vendedor</string>
+    <string name="titulo_ventas">Ventas</string>
+    <string name="titulo_cobros">Cobros</string>
+    <string name="cantidad_default_dinero">RD$ 00.00</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
